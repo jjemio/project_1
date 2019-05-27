@@ -1,0 +1,8 @@
+goodreads key:
+key: Z3IUVRp82i7FuPsRpLDMCg
+
+to get back to app on localhost:
+
+set FLASK_APP=application.py
+set DATABASE_URL=postgres://ruoftkfftsnzxq:fa605efb1e39875e5e4a7c2f7989521a1893dac3904b6409639c7e24c17fc25a@ec2-107-20-230-70.compute-1.amazonaws.com:5432/d2eia8imrcikl9
+flask run
